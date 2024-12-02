@@ -19,6 +19,9 @@
 </table>
 <br>
 
+### Coding Test
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=principle950)](https://solved.ac/principle950/)
+
 ### Tool
 <span>
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=FFFFFF"/>
