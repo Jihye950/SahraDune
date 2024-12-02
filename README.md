@@ -9,8 +9,8 @@
   <tr>
     <th>email</th>
     <td>l830l@naver.com</td>
-    <th>blog</th>
-    <td>티스토리에서 이전 작업 중</td>
+    <th>kakaoTalk</th>
+    <td>principle950</td>
   </tr>
   <tr>
    <th>portfolio</th>
