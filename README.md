@@ -19,9 +19,6 @@
 </table>
 <br>
 
-### Coding Test
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sahradune)](https://solved.ac/sahradune/)
-
 <br>
 
 ### Tool
